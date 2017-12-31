@@ -3,7 +3,7 @@ Machine Learning Practice(TensorFlow)
 
   I'm a Beginner of Machine Learning, this is my first project aimed to practice the Machine Leaning skills.
 
-## Environment: Python3.6(64-bit), 
+## Environment: Python3.6(64-bit) 
   Pls run the following command to install the requirements.  
   `pip3 install -r requirements.txt`
   
