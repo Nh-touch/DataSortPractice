@@ -16,13 +16,13 @@ Machine Learning Practice(TensorFlow)
 ## How to run:
    After **installed the requirements**, pls use the following command to run:  
    `py -3 FootBallDataPredict.py`  
-   Which will start the training program, and save the models in the same dir.
+   Which will start the training program, and save the models in the same dir. 
    
 ## Results:
    The accuracy of train_data and test_data is up to 68%, which means it is still not very possible to predict
-   the match result. 
+   the match result.   
    But as a program to understand and practice basic tensorflow deep leaning skills. This
-   project will be more than enough.
+   project will be more than enough.  
    
 ## Contacts:
    If you are interested in this project, pls feel free to contact me on github, improve this project together. 
