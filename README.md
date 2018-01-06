@@ -19,7 +19,7 @@ Machine Learning Practice(TensorFlow)
    Which will start the training program, and save the models in the same dir. 
    
 ## Results:
-   The accuracy of train_data and test_data is up to 68%, which means it is still not very possible to predict
+   The accuracy of train_data and test_data is up to 85%, which means it is still not very possible to predict
    the match result.   
    But as a program to understand and practice basic tensorflow deep learning skills. This
    project will be more than enough.  
